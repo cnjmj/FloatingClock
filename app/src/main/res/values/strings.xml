@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">悬浮时钟</string>
+    <string name="slogan">悬浮在任意应用之上，实时显示 时:分:秒</string>
+    <string name="start">开启悬浮时钟</string>
+    <string name="stop">关闭悬浮时钟</string>
+    <string name="quit">退出</string>
+    <string name="close">✕</string>
+    <string name="channel_desc">保持悬浮时钟常驻运行</string>
+    <string name="notif_running">时钟悬浮中 · 单击时钟可显示控制条</string>
+    <string name="perm_status">悬浮窗权限：%1$s</string>
+    <string name="granted">已授权</string>
+    <string name="denied">未授权（点“开启”会跳转授权）</string>
+    <string name="open_perm_manually">请到 设置 → 应用 → 悬浮时钟，开启“显示在其他应用上层”</string>
+    <string name="started">悬浮时钟已开启，返回桌面即可看到</string>
+    <string name="stopped">已关闭悬浮时钟</string>
+    <string name="usage_hint">使用提示：\n• 按住时钟拖动可移动位置\n• 单击时钟显示/隐藏控制条\n• − / + 调整字号，✕ 立即关闭\n• 位置与字号自动记忆\n• 通知栏“退出”可彻底停止</string>
+</resources>
